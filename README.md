@@ -1,9 +1,9 @@
 # Maitreya_Ved
 
 # How to start with Project
-## npm install
-## install extra dependencies if needed
-## npm start
+### npm install
+### install extra dependencies if needed
+### npm start
 
 ## 📱 Responsive Design
 
